@@ -1,5 +1,5 @@
 [bypass_all]
 
 [proxy_list]
-(^|\.)c\.y\.qq\.com$
-(^|\.)vd\.l\.qq\.com$
+c\.y\.qq\.com$
+vd\.l\.qq\.com$

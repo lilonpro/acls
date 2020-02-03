@@ -1,5 +1,9 @@
 [bypass_all]
 
 [proxy_list]
-c\.y\.qq\.com$
-vd\.l\.qq\.com$
+203.205.253.240
+(?:^|\.)203\.205\.235\.218$
+(?:^|\.)c\.y\.qq\.com$
+(?:^|\.)h5vv\.video\.qq\.com$
+(?:^|\.)monitor\.music\.qq\.com$
+(?:^|\.)vd\.l\.qq\.com$
